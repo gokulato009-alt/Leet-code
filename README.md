@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gokulato009-alt/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/gokulato009-alt/Leet-code/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/gokulato009-alt/Leet-code/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/gokulato009-alt/Leet-code/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
