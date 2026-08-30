@@ -16,4 +16,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/gokulato009-alt/Leet-code/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/gokulato009-alt/Leet-code/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
