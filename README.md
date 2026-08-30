@@ -20,4 +20,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gokulato009-alt/Leet-code/tree/master/0007-reverse-integer) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/gokulato009-alt/Leet-code/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
