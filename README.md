@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gokulato009-alt/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gokulato009-alt/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -26,4 +27,24 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/gokulato009-alt/Leet-code/tree/master/0175-combine-two-tables) |
 | [0620-not-boring-movies](https://github.com/gokulato009-alt/Leet-code/tree/master/0620-not-boring-movies) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gokulato009-alt/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gokulato009-alt/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gokulato009-alt/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gokulato009-alt/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gokulato009-alt/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
