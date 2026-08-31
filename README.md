@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gokulato009-alt/Leet-code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gokulato009-alt/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/gokulato009-alt/Leet-code/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/gokulato009-alt/Leet-code/tree/master/1470-shuffle-the-array) |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gokulato009-alt/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/gokulato009-alt/Leet-code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
