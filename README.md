@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/gokulato009-alt/Leet-code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gokulato009-alt/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/gokulato009-alt/Leet-code/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/gokulato009-alt/Leet-code/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/gokulato009-alt/Leet-code/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/gokulato009-alt/Leet-code/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -58,4 +59,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gokulato009-alt/Leet-code/tree/master/0001-two-sum) |
+| [0645-set-mismatch](https://github.com/gokulato009-alt/Leet-code/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/gokulato009-alt/Leet-code/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/gokulato009-alt/Leet-code/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
